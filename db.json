@@ -87,7 +87,7 @@
   ],
   "FullDataItems": [
     {
-      "productionLine": "One to rule them all Line",
+      "productionLine": 4,
       "id": "10063",
       "name": "0.5l Special Beer ",
       "properies": {
