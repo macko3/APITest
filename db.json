@@ -1,5 +1,8 @@
 {
   "Items": [
+    
+  ],
+  "FullDataItems": [
     {
       "productionLine": "One to rule them all Line",
       "id": "10063",
@@ -157,7 +160,4 @@
       }
     }
   ],
-  "FullDataItems": {
-    "name": "typicode"
-  }
 }
