@@ -1,121 +1,160 @@
 {
   "Items": [
     {
+      "productionLine": "One to rule them all Line",
+      "id": "10063",
+      "name": "0.5l Special Beer ",
+      "properies": {
+        "isActive": false,
+        "displayPallet": true,
+        "finishedProduct": true,
+        "rawProduct": true
+      },
+      "barcodes": {
+        "fPack": "7030019503752",
+        "dPack": "7030019503752",
+        "altDPak": "70300",
+        "pallete": "70300"
+      },
+      "informations": {
+        "unitsPerFPack": "100",
+        "fPackPerDPack": "20",
+        "dPackPerLayer": "100",
+        "dPackPerPallet": "50",
+        "secondaryWeight": "500",
+        "secondaryWeightNet": "550",
+        "maxTopLoad": "2171"
+      },
+      "vhatevs": {
+        "shelfLife": "2 years",
+        "volume": "0.5",
+        "prodLineNum": "B3"
+      },
+      "extra": {
+        "extra1": "This is Extra 1",
+        "extra2": "This is Extra 2",
+        "extra3": "This is Extra 3",
+        "extra4": "This is Extra 4",
+        "extra5": "",
+        "tempRestriction": "200"
+      },
+      "label": {
+        "fPack": "0.5l Special Beer Label",
+        "dPack": "0.5l Special Beer Label",
+        "pallet": "0.5l Special Beer Label",
+        "mixPallet": "0.5l Special Beer Label",
+        "extra1": "This is Extra Label 1",
+        "extra2": ""
+      },
+      "labelText": {
+        "extra1": "Label super extra text",
+        "extra2": "",
+        "extra3": ""
+      }
+    },
+    {
       "id": 10064,
       "name": "0.5 Hansa premium br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10065,
       "name": "1.5 Hansa basic br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10066,
       "name": "0.5 Hansa awesome br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10067,
       "name": "0.5 Aass premium br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10068,
       "name": "1.5 Aass basic br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10069,
       "name": "0.5 Aass awesome br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10070,
       "name": "0.5 Mack premium br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10071,
       "name": "1.5 Mack basic br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10072,
       "name": "0.5 Mack awesome br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10073,
       "name": "0.5 Carlsberg premium br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10074,
       "name": "1.5 Carlsberg basic br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10075,
       "name": "0.5 Carlsberg awesome br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     },
     {
       "id": 10076,
       "name": "1.5 Bokkøl basic br 6pk 24bx",
-      "barcodes": 
-        {
-          "fPack": 7030019503752,
-          "dPack": 17030019503752
-        }
+      "barcodes": {
+        "fPack": 7030019503752,
+        "dPack": 17030019503752
+      }
     }
   ],
   "FullDataItems": {
